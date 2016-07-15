@@ -1,0 +1,5 @@
+Za korištenje na androidu 6+ treba dodati provjeru dozvola.
+
+http://www.theappguruz.com/blog/to-allow-two-way-text-chat-over-bluetooth-in-android
+https://github.com/lorensiuswlt/AndroBluetooth/blob/master/src/net/londatiga/android/bluetooth/MainActivity.java
+https://github.com/tejas123/to-allow-two-way-text-chat-over-bluetooth-in-android/blob/master/src/com/tag/bluetoothchat/MainActivity.java
